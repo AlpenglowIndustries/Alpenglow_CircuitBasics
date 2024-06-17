@@ -10,8 +10,7 @@ This project was initially launched thanks to funding from a Diversity, Equity, 
 06/17/2024: We have just created this repo and are in the process of updating and adding materials & files
 
 More Resources:
-[Alpenglow Storefront](https://www.alpenglowindustries.com/store)
-Helpful Electronics Primers: 
-[Basic Electronics Cheat Sheet (short)](https://cdn.shopify.com/s/files/1/0608/6698/6193/files/Basic_Electronics_Workshop_Cheat_Sheet.pdf?v=1716591500)
-[Basic Electronics Crash Course (long)](https://cdn.shopify.com/s/files/1/0608/6698/6193/files/Basic_Electronics_Workshop_Crash_Course.pdf?v=1716591500)
-[Other Tutorials](https://www.alpenglowindustries.com/pages/tutorials-home-page)
+* [Alpenglow Storefront](https://www.alpenglowindustries.com/store)
+* [Basic Electronics Cheat Sheet (short)](https://cdn.shopify.com/s/files/1/0608/6698/6193/files/Basic_Electronics_Workshop_Cheat_Sheet.pdf?v=1716591500)
+* [Basic Electronics Crash Course (long)](https://cdn.shopify.com/s/files/1/0608/6698/6193/files/Basic_Electronics_Workshop_Crash_Course.pdf?v=1716591500)
+* [Other Tutorials](https://www.alpenglowindustries.com/pages/tutorials-home-page)
