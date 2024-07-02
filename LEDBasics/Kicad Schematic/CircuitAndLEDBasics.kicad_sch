@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "3a8ad404-080c-470d-b999-53d07dbf3a81")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
 		(title "Circuit & LED Basics")
 		(company "Alpenglow Industries")
